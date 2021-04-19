@@ -1,0 +1,29 @@
+body {
+  background: #20262E;
+  padding: 20px;
+  font-family: Helvetica;
+  color: white;
+}
+
+.block-content {
+  color: black;
+  background: #fff;
+  border-radius: 4px;
+  padding: 20px;
+  transition: all 0.2s;
+  margin: 30px;
+  width: 400px;
+}
+
+li {
+  list-style: none;
+}
+
+button {
+  background: #0084ff;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 14px;
+  font-size: 15px;
+  color: #fff;
+}
